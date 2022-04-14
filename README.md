@@ -9,3 +9,4 @@ Data konsumen pengambil STNK
 
 Formulir data pengambil STNK
 
+![1`2345](https://user-images.githubusercontent.com/97660319/163313092-3b4cd4af-ed07-4cb0-9ff2-9bb7091af1a3.png)
