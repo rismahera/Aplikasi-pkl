@@ -25,3 +25,4 @@ Bukti Print pengambilan STNK
 ![PRINTSTNK](https://user-images.githubusercontent.com/97660319/163659366-e29520bb-afe5-4d61-8e7c-7fd6e228f1cf.png)
 
 Tampilan Logout
+![LOGOUT](https://user-images.githubusercontent.com/97660319/163659413-c820aceb-8abb-462f-8f8d-65c7228c56e7.png)
