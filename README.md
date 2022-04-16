@@ -20,3 +20,8 @@ Formulir pengambilan STNK
 
 Data pengambilan STNK
 ![data pengambilan](https://user-images.githubusercontent.com/97660319/163659312-eaaf3071-cb16-41f9-846f-4858096ea49c.png)
+
+Bukti Print pengambilan STNK
+![PRINTSTNK](https://user-images.githubusercontent.com/97660319/163659366-e29520bb-afe5-4d61-8e7c-7fd6e228f1cf.png)
+
+Tampilan Logout
