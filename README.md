@@ -17,3 +17,6 @@ Formulir data pengambil STNK
 
 Formulir pengambilan STNK
 ![tambahpengambilan](https://user-images.githubusercontent.com/97660319/163659239-f72b5c73-6460-4b56-aa54-f7c968fc8287.png)
+
+Data pengambilan STNK
+![data pengambilan](https://user-images.githubusercontent.com/97660319/163659312-eaaf3071-cb16-41f9-846f-4858096ea49c.png)
